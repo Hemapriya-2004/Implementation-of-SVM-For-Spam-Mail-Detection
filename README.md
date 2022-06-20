@@ -42,23 +42,17 @@ accuracy
 ~~~
 ## Output:
 ### Data.head():
-![output](![1](https://user-images.githubusercontent.com/94184828/174649313-e34aa865-2c55-4bea-98ab-adc296f3e853.png)
-)
+![output](1.png)
 ### Data.info():
-![output](![2](https://user-images.githubusercontent.com/94184828/174649384-9d646ae3-a5e7-44c4-ae86-44f0f0a101a2.png)
-)
+![output](2.png)
 ### Data.isnull().sum():
-![output](![3](https://user-images.githubusercontent.com/94184828/174649421-7135d019-5c1a-4a67-8d8d-1ca821e61653.png)
-)
+![output](3.png)
 ### svc.fit:
-![output](![4](https://user-images.githubusercontent.com/94184828/174649474-c81ad697-c929-4852-b0c8-3afe06578cbd.png)
-)
+![output](4.png)
 ### Y_Pred:
-![output](![4](https://user-images.githubusercontent.com/94184828/174649501-2b3dffcd-948e-4b71-8ac9-dbd69402c678.png)
-)
+![output](5.png)
 ### Accuracy:
-![output](![6](https://user-images.githubusercontent.com/94184828/174649527-de2b6118-d46d-48e6-a125-1d4f82e1022c.png)
-)
+![output](6.png)
 
 
 ## Result:
